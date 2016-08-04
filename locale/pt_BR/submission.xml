@@ -162,11 +162,12 @@
 	<message key="submission.supplementaryFiles">Documentos suplementares</message>
 	<message key="submission.supportingAgencies">Agências de apoio</message>
 	<message key="submission.titleAndAbstract">Título e Resumo</message>
+	<message key="submission.titleAndAbstractInstructions">Somente a inicial da primeira palavra do título em maiúscula (Análise sensorial de espumantes); Maiúscula para nomes próprios (Rio Grande do Sul, Guimarães Rosa); Quando houver subtítulo, separar por dois pontos (Amores impossíveis: contos); Nomes científicos e/ou palavras estrangeiras, use itálico.</message>
 	<message key="submission.underway">Encaminhado</message>
 	<message key="submission.uploadFileTo">Transferir documento</message>
 	<message key="submission.viewMetadata">Ver metadados</message>
 	<message key="submission.views">Acessos</message>
-	
+
 	<!-- Author Submission -->
 	<message key="author.submit.submissionCitations">Forneça uma lista formatada de referências a citações incluídas nesta submissão.</message>
 	<message key="submission.citations.jQueryRequired"><![CDATA[Edição de citações exige a habilitação do jQuery. Acesse a página de <a target="_new" href="{$genericPluginsUrl}">Plugins genéricos</a> e habilite o plugin jQuery.]]></message>
