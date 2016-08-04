@@ -71,7 +71,7 @@
 	<message key="grid.libraryFiles.productionTemplate.title">Biblioteca de modelos de produção</message>
 
 	<!-- SubmissionChecklist -->
-	<message key="grid.submissionChecklist.title">Diretrizes para submissão</message>
+	<message key="grid.submissionChecklist.title">Condições para Submissão</message>
 	<message key="grid.submissionChecklist.column.checklistItem">Item de verificação</message>
 
 	<!-- Submission Contributors -->

@@ -21,7 +21,7 @@
 	<message key="about.contact.principalContact">Contato Principal</message>
 	<message key="about.contact.supportContact">Contato para Suporte Técnico</message>
 	<message key="about.other">Outro</message>
-	<message key="about.people">Equipe</message>
+	<message key="about.people">Comissão Organizadora</message>
 	<message key="about.policies">Políticas</message>
 	<message key="about.siteMap">Mapa do Portal</message>
 	<message key="announcement.announcements">Notícias</message>
@@ -231,7 +231,7 @@
 	<message key="navigation.about">Sobre</message>
 	<message key="navigation.browse">Procurar</message>
 	<message key="navigation.browseByTitle">Por título</message>
-	<message key="navigation.home">Capa</message>
+	<message key="navigation.home">Início</message>
 	<message key="navigation.infoForReaders">Para leitores</message>
 	<message key="navigation.infoForReaders.long">Informações para Leitores</message>
 	<message key="navigation.items">{$from} a {$to} de {$total} itens</message>
@@ -241,9 +241,9 @@
 	<message key="navigation.previousPage"><![CDATA[&lt;&lt;]]></message>
 	<message key="navigation.previousStep">Voltar</message>
 	<message key="navigation.register">Cadastro</message>
-	<message key="navigation.search">Pesquisa</message>
+	<message key="navigation.search">Busca</message>
 	<message key="navigation.stepNumber">Passo {$step}</message>
-	<message key="navigation.userHome">Página do usuário</message>
+	<message key="navigation.userHome">Minha Página</message>
 	<message key="navigation.user">Usuário</message>
 	<message key="search.abstract">Resumo</message>
 	<message key="search.allFields">Todos</message>
