@@ -149,7 +149,7 @@
 	<message key="submissions.noSubmissions">Sem submissões</message>
 	<message key="submissions.queuedEditing">Em Edição</message>
 	<message key="submissions.queued">Em fila</message>
-	<message key="submissions.queuedUnassigned">Aguardando designação</message>
+	<message key="submissions.queuedUnassigned">Aguardando avaliação</message>
 	<message key="submissions.ruling">Decisão</message>
 	<message key="submissions.submit">Enviar</message>
 	<message key="submissions.submitted">Enviado</message>
