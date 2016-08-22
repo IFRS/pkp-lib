@@ -96,13 +96,13 @@
 	<message key="user.sendPassword.description">Enviar e-mail de confirmação incluindo login e senha</message>
 	<message key="user.signature">Assinatura</message>
 	<message key="user.title">Títulação</message>
-	<message key="user.url">URL (Currículo Lattes)</message>
+	<message key="user.url">Link do Currículo Lattes</message>
 	<message key="user.userHome">Página do usuário</message>
 	<message key="user.username">Login</message>
 	<message key="user.workingLanguages">Idiomas conhecidos</message>
 	<message key="user.profile.form.profileImageInvalid">Formato ou tamanho de imagem inválido para o perfil. Formatos aceitos são .gif, .jpg, ou .png, e a imagem não pode exceder 150x150 pixels.</message>
 	<message key="user.other">Outro</message>
-	<message key="user.affiliation.description">(Informe as afiliações institucionais no formato: Instituição por extenso (SIGLA) - Campus ou Departamento. Cidade-sigla do Estado. Ex.: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) - Campus Caxias do Sul. Caxias do Sul-RS)</message>
+	<message key="user.affiliation.description">Informe o nome da instituição por extenso (Informe as afiliações institucionais no formato: Instituição por extenso (SIGLA) - Campus ou Departamento. Cidade - sigla do Estado.) Ex.: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) - Campus Caxias do Sul. Caxias do Sul-RS)</message>
 	<message key="user.gossip">Notas privadas</message>
 	<message key="user.profile.form.affiliationRequired">Sua instituição é obrigatória</message>
 </locale>
