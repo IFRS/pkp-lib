@@ -162,7 +162,7 @@
 	<message key="submission.supplementaryFiles">Documentos suplementares</message>
 	<message key="submission.supportingAgencies">Agências de apoio</message>
 	<message key="submission.titleAndAbstract">Título e Resumo</message>
-	<message key="submission.titleAndAbstractInstructions">Somente a inicial da primeira palavra do título em maiúscula (Análise sensorial de espumantes); Maiúscula para nomes próprios (Rio Grande do Sul, Guimarães Rosa); Quando houver subtítulo, separar por dois pontos (Amores impossíveis: contos); Nomes científicos e/ou palavras estrangeiras, use itálico.</message>
+	<message key="submission.titleAndAbstractInstructions">Somente a inicial da primeira palavra do título em maiúscula (ex.: Análise sensorial de espumantes); Maiúscula para nomes próprios (exemplos: Rio Grande do Sul, Guimarães Rosa); Quando houver subtítulo, separar por dois pontos (ex.: Amores impossíveis: contos); Nomes científicos e/ou palavras estrangeiras, use itálico.</message>
 	<message key="submission.underway">Encaminhado</message>
 	<message key="submission.uploadFileTo">Transferir documento</message>
 	<message key="submission.viewMetadata">Ver metadados</message>
