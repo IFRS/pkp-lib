@@ -75,7 +75,7 @@
 	<message key="user.profile">Perfil</message>
 	<message key="user.profile.publicProfile">Perfil do usuário</message>
 	<message key="user.profile.repeatNewPassword">Repetir nova senha</message>
-	<message key="user.register.completeForm">Preencha o formulário para se cadastrar no sistema.</message>
+	<message key="user.register.completeForm">Para se cadastrar no sistema, preencha o formulário de acordo com as normas da língua portuguesa. Maiúsculas somente no início dos substantivos próprios e siglas. Digite seu nome completo com iniciais maiúsculas, sem abreviações nas respectivas caixas. Ex.: Raimundo Silva Ferreira</message>
 	<message key="user.register.form.emailExists">O endereço de e-mail digitado já está cadastrado.</message>
 	<message key="user.register.form.passwordsDoNotMatch">As senhas não combinam.</message>
 	<message key="user.register.form.usernameAlphaNumeric">O login deve conter apenas letras minúsculas (a-z), números(0-9), sublinhados(_) e hífens(-), e deve começar por um caractere alfanumérico (a-z, 0-9).</message>
@@ -102,7 +102,7 @@
 	<message key="user.workingLanguages">Idiomas conhecidos</message>
 	<message key="user.profile.form.profileImageInvalid">Formato ou tamanho de imagem inválido para o perfil. Formatos aceitos são .gif, .jpg, ou .png, e a imagem não pode exceder 150x150 pixels.</message>
 	<message key="user.other">Outro</message>
-	<message key="user.affiliation.description">Informe o nome da instituição por extenso (Informe as instituições do autor no formato: Instituição por extenso (SIGLA) - Campus ou Departamento. Cidade - sigla do Estado.) Ex.: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) - Campus Caxias do Sul. Caxias do Sul-RS)</message>
+	<message key="user.affiliation.description">Exemplo: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) - Campus Bento Gonçalves. Bento Gonçalves, RS</message>
 	<message key="user.gossip">Notas privadas</message>
 	<message key="user.profile.form.affiliationRequired">Sua instituição é obrigatória</message>
 </locale>
